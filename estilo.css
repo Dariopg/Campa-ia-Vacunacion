@@ -1,0 +1,37 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.barra_sup {
+    min-height: 30px;
+    background-color: rgba(186, 215, 235, 0.21);
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.elemento {
+    width: 250px;
+    height: 20px;
+    background-color: rgba(161, 228, 246, 0.084);
+    text-align: right;
+}
+
+.titulo{
+    width: 250px;
+    height: 20px;
+    background-color: rgba(161, 228, 246, 0.084);
+    text-align: left;
+    font-size:x-large;
+    
+}
+
+
+.fondo {
+    min-height: 1000px;
+    background-image: url(./Jeringas.jpeg);
+    background-size: cover;
+}
+
+
+

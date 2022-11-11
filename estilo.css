@@ -2,11 +2,11 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.barra_sup {
-    min-height: 30px;
+.contenedor_sup {
+    min-height: 60px;
     background-color: rgba(186, 215, 235, 0.21);
     display: flex;
-    justify-content: space-around;
+    
 }
 
 
@@ -15,15 +15,6 @@
     height: 20px;
     background-color: rgba(161, 228, 246, 0.084);
     text-align: right;
-}
-
-.titulo{
-    width: 250px;
-    height: 20px;
-    background-color: rgba(161, 228, 246, 0.084);
-    text-align: left;
-    font-size:x-large;
-    
 }
 
 
